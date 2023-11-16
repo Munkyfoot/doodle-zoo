@@ -1,0 +1,11 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore data files and models
+data/base/*
+data/user/*
+models/*
+*.db
