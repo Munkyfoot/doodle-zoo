@@ -13,9 +13,13 @@ The training notebook provides a step-by-step process for training a model on [t
 
 ## Installation
 
-### 1. Access the repository
+### 1. Clone the repository
 
-Extract the compressed repository file into a directory of your choice. (If you're reading this inside the repository, you've already done this step!)
+Clone this repository using the following command:
+
+```bash
+git clone https://github.com/Munkyfoot/doodle-zoo.git
+```
 
 ### 2. Install the dependencies
 
